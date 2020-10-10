@@ -17,4 +17,3 @@ Websites & dashboards:
 8.	http://www.greenpoint21.com/
 9.	http://www.webguide21.com/
 10.	http://www.yallamazag.com/
-11.	http://archroom.com/

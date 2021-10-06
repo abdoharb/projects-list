@@ -1,11 +1,13 @@
 Back-end for mobile applications:
 1.  https://play.google.com/store/apps/details?id=com.dashop.app
 2.	https://play.google.com/store/apps/details?id=com.forcetouches.forsatanya
-3.	https://play.google.com/store/apps/details?id=com.forcetouches.gawal
-4.	https://play.google.com/store/apps/details?id=com.forcetouches.shabah
-5.	https://play.google.com/store/apps/details?id=getak.app.com.getak
-6.	https://play.google.com/store/apps/details?id=com.forcetouches.groupaty
-7.	https://play.google.com/store/apps/details?id=mazaya.com.mazaya
+3.	https://play.google.com/store/apps/details?id=com.liveartist.client
+4.	https://play.google.com/store/apps/details?id=com.liveartist.stylist
+5.	https://play.google.com/store/apps/details?id=com.forcetouches.gawal
+6.	https://play.google.com/store/apps/details?id=com.forcetouches.shabah
+7.	https://play.google.com/store/apps/details?id=getak.app.com.getak
+8.	https://play.google.com/store/apps/details?id=com.forcetouches.groupaty
+9.	https://play.google.com/store/apps/details?id=mazaya.com.mazaya
 
 
 Websites & dashboards:

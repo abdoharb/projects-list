@@ -1,4 +1,6 @@
-Back-end for mobile applications:
+Some of projects that i worked on:-
+
+Back-end for mobile applications:-
 1.  https://play.google.com/store/apps/details?id=com.dashop.app
 2.	https://play.google.com/store/apps/details?id=com.forcetouches.forsatanya
 3.	https://play.google.com/store/apps/details?id=com.liveartist.client
@@ -10,7 +12,7 @@ Back-end for mobile applications:
 9.	https://play.google.com/store/apps/details?id=mazaya.com.mazaya
 
 
-Websites & dashboards:
+Websites & dashboards:-
 1.  https://demo.dashop.app
 2.  https://dashop.app
 3.	http://realestatetradeline.com
